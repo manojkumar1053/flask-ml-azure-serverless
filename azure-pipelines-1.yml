@@ -14,7 +14,7 @@ variables:
   webAppName: 'flask-ml-service-ons'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'windows-latest'
 
   # Environment name
   environmentName: 'flask-ml-service-ons'
