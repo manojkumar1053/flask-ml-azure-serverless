@@ -19,7 +19,7 @@ variables:
   # Environment name
   environmentName: 'flask-ml-service-ons'
 
-  # Project root folder. Point to the folder containing manage.py file.
+  # Project root folder. #Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
 
   # Python version: 3.9
